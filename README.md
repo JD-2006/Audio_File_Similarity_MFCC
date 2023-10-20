@@ -11,3 +11,5 @@ These two are same length and same speaker. Lower score is better. So 75.759 is 
 
 And this one closer still with a score of 33.842.
 ![Figure_3-33 842](https://github.com/JD-2006/Audio_File_Similarity_MFCC/assets/85276310/72bafc1b-d212-4c9e-86a7-478369cd26be)
+
+If you get "ModuleNotFoundError: No module named 'dtw'" error, pip install dtw-python.
